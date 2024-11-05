@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Resume Parser is a powerful tool designed to automate the extraction and analysis of key information from resumes. By leveraging the Gemini API, this application converts unstructured resume data into structured formats, enabling efficient data processing. The parser provides personalized job role and certification recommendations based on extracted data.
+The Resume Analyzer is a powerful tool designed to automate the extraction and analysis of key information from resumes. By leveraging the Gemini API, this application converts unstructured resume data into structured formats, enabling efficient data processing. The parser provides personalized job role and certification recommendations based on extracted data.
 
 ## Steps to Run the App (Locally) :-
 
