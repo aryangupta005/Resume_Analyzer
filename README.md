@@ -1,4 +1,4 @@
-# Resume Parser Using Gemini
+# Resume Analyzer Using Gemini
 
 ## Overview
 
@@ -8,8 +8,8 @@ The Resume Parser is a powerful tool designed to automate the extraction and ana
 
 ### 1. Clone the repository:
 ```
-git clone https://github.com/GDGouravDey/Resume-Parser-Gemini.git
-cd Resume-Parser-Gemini
+git clone https://github.com/GDGouravDey/Resume_Analyzer.git
+cd Resume_Analyzer
 ```
 ### 2. Set up a virtual environment:
 ```
