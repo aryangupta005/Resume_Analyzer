@@ -8,7 +8,7 @@ The Resume Analyzer is a powerful tool designed to automate the extraction and a
 
 ### 1. Clone the repository:
 ```
-git clone https://github.com/GDGouravDey/Resume_Analyzer.git
+git clone https://github.com/aryangupta005/Resume_Analyzer.git
 cd Resume_Analyzer
 ```
 ### 2. Set up a virtual environment:
